@@ -155,7 +155,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 #intro {
   width: 100%;
-  height: 110vh;
+  height: 70vh;
   background: linear-gradient(45deg, #1B2221, #1B2221);
   position: static;
 }
